@@ -1,0 +1,41 @@
+_repo: Diary-of-Ezra-Green-M.D.-from-November-1-1777-to-September-27-1778_36204
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Green, Ezra
+    birthdate: 1746
+    deathdate: 1847
+    gutenberg_agent_id: '38134'
+    url: http://www.gutenberg.org/2009/agents/38134
+  editors:
+  - agent_name: Green, Walter C.
+    birthdate: 1799
+    gutenberg_agent_id: '38136'
+    url: http://www.gutenberg.org/2009/agents/38136
+  - agent_name: Preble, George Henry
+    alias: Preble, G. H. (George Henry)
+    birthdate: 1816
+    deathdate: 1885
+    gutenberg_agent_id: '38135'
+    url: http://www.gutenberg.org/2009/agents/38135
+description: ''
+gutenberg_issued: '2011-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranger (Sloop of war)'
+- !lcc 'E201'
+- !lcsh 'Green, Ezra, 1746-1847 -- Diaries'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Naval operations'
+- !lcsh 'Green, Ezra, 1746-1847'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Personal narratives'
+title: Diary of Ezra Green, M.D. from November 1, 1777, to September 27, 1778
+url: http://www.gutenberg.org/ebooks/36204
